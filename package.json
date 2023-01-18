@@ -40,7 +40,7 @@
     "eslint": "4.19.1",
     "eslint-config-synacor": "2.1.0",
     "esm": "3.2.25",
-    "glob": "7.2.3",
+    "glob": "8.1.0",
     "markdown": "0.5.0",
     "per-env": "1.0.2",
     "preact-cli": "3.0.1",
