@@ -9266,10 +9266,10 @@ preact-render-to-string@^3.6.3:
   dependencies:
     pretty-format "^3.5.1"
 
-preact-router@3.1.0:
-  version "3.1.0"
-  resolved "https://registry.yarnpkg.com/preact-router/-/preact-router-3.1.0.tgz#fed59487f812baef4a63aa63175e280fa3608151"
-  integrity sha512-OeiSIl6C4ecfKl4wmEkkz5LO68PuNYuSWk1dxpjmTIMsXVRxm0PWw6PudAISQBjYmzMY9Z6NBfXoZjQDLV3l7g==
+preact-router@3.2.1:
+  version "3.2.1"
+  resolved "https://registry.yarnpkg.com/preact-router/-/preact-router-3.2.1.tgz#c7d12d8fc7a60bfbe5cadf23a234551bec783468"
+  integrity sha512-KEN2VN1DxUlTwzW5IFkF13YIA2OdQ2OvgJTkQREF+AA2NrHRLaGbB68EjS4IeZOa1shvQ1FvEm3bSLta4sXBhg==
 
 preact@10.4.6:
   version "10.4.6"
