@@ -33,7 +33,7 @@
     "preact": "10.13.1",
     "preact-cli-plugin-netlify": "1.6.0",
     "preact-render-to-string": "5.2.6",
-    "preact-router": "4.1.0",
+    "preact-router": "4.1.2",
     "parse-md": "3.0.3"
   },
   "devDependencies": {
